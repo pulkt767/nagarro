@@ -1,0 +1,15 @@
+body{
+    background-color: rgba(220, 217, 249, 0.455);
+}
+
+h1{
+    text-align: center;
+    color:  rgba(0, 0, 0, 0.853);
+    font-size: 70px;
+}
+    /* font-family: "Times New Roman", Times, serif;  */
+
+footer{
+    align-self: bottom;
+    text-align: right;
+}
